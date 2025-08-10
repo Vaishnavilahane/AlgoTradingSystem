@@ -1,0 +1,101 @@
+2025-08-11 01:14:34,213 [INFO] Scheduled trading bot started. Waiting for 16:30 each day...
+2025-08-11 01:15:12,844 [INFO] Fetching data for ADANIPORTS.NS
+2025-08-11 01:15:14,561 [INFO] ADANIPORTS.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 68.00%
+2025-08-11 01:15:14,569 [INFO] Fetching data for ASIANPAINT.NS
+2025-08-11 01:15:14,936 [INFO] ASIANPAINT.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:14,936 [INFO] Fetching data for AXISBANK.NS
+2025-08-11 01:15:15,253 [INFO] AXISBANK.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 36.00%
+2025-08-11 01:15:15,253 [INFO] Fetching data for BAJAJ-AUTO.NS
+2025-08-11 01:15:15,570 [INFO] BAJAJ-AUTO.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:15,570 [INFO] Fetching data for BAJFINANCE.NS
+2025-08-11 01:15:15,902 [INFO] BAJFINANCE.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 68.00%
+2025-08-11 01:15:15,908 [INFO] Fetching data for BAJAJFINSV.NS
+2025-08-11 01:15:16,214 [INFO] BAJAJFINSV.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:16,218 [INFO] Fetching data for BPCL.NS
+2025-08-11 01:15:16,520 [INFO] BPCL.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:16,537 [INFO] Fetching data for BHARTIARTL.NS
+2025-08-11 01:15:16,840 [INFO] BHARTIARTL.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 48.00%
+2025-08-11 01:15:16,844 [INFO] Fetching data for BRITANNIA.NS
+2025-08-11 01:15:17,192 [INFO] BRITANNIA.NS | Model: Decision Tree | Profit: 576.35 | Win Ratio: 100.00% | ML Accuracy: 72.00%
+2025-08-11 01:15:17,197 [INFO] Fetching data for CIPLA.NS
+2025-08-11 01:15:17,520 [INFO] CIPLA.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:17,527 [INFO] Fetching data for COALINDIA.NS
+2025-08-11 01:15:17,818 [INFO] COALINDIA.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:17,827 [INFO] Fetching data for DIVISLAB.NS
+2025-08-11 01:15:18,135 [INFO] DIVISLAB.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 64.00%
+2025-08-11 01:15:18,135 [INFO] Fetching data for DRREDDY.NS
+2025-08-11 01:15:18,476 [INFO] DRREDDY.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:18,478 [INFO] Fetching data for EICHERMOT.NS
+2025-08-11 01:15:18,802 [INFO] EICHERMOT.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:18,809 [INFO] Fetching data for GRASIM.NS
+2025-08-11 01:15:19,170 [INFO] GRASIM.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:19,179 [INFO] Fetching data for HCLTECH.NS
+2025-08-11 01:15:19,504 [INFO] HCLTECH.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 48.00%
+2025-08-11 01:15:19,504 [INFO] Fetching data for HDFCBANK.NS
+2025-08-11 01:15:19,820 [INFO] HDFCBANK.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 48.00%
+2025-08-11 01:15:19,820 [INFO] Fetching data for HDFCLIFE.NS
+2025-08-11 01:15:20,135 [INFO] HDFCLIFE.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:20,135 [INFO] Fetching data for HEROMOTOCO.NS
+2025-08-11 01:15:20,486 [INFO] HEROMOTOCO.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 72.00%
+2025-08-11 01:15:20,489 [INFO] Fetching data for HINDALCO.NS
+2025-08-11 01:15:20,869 [INFO] HINDALCO.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:20,876 [INFO] Fetching data for HINDUNILVR.NS
+2025-08-11 01:15:21,217 [INFO] HINDUNILVR.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:21,219 [INFO] Fetching data for ICICIBANK.NS
+2025-08-11 01:15:21,571 [INFO] ICICIBANK.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 68.00%
+2025-08-11 01:15:21,571 [INFO] Fetching data for ITC.NS
+2025-08-11 01:15:21,903 [INFO] ITC.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:21,903 [INFO] Fetching data for INDUSINDBK.NS
+2025-08-11 01:15:22,221 [INFO] INDUSINDBK.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:22,221 [INFO] Fetching data for INFY.NS
+2025-08-11 01:15:22,602 [INFO] INFY.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:22,602 [INFO] Fetching data for JSWSTEEL.NS
+2025-08-11 01:15:22,920 [INFO] JSWSTEEL.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:22,920 [INFO] Fetching data for KOTAKBANK.NS
+2025-08-11 01:15:23,270 [INFO] KOTAKBANK.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:23,270 [INFO] Fetching data for LT.NS
+2025-08-11 01:15:23,587 [INFO] LT.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:23,587 [INFO] Fetching data for M&M.NS
+2025-08-11 01:15:23,904 [INFO] M&M.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:23,904 [INFO] Fetching data for MARUTI.NS
+2025-08-11 01:15:24,237 [INFO] MARUTI.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:24,243 [INFO] Fetching data for NTPC.NS
+2025-08-11 01:15:24,551 [INFO] NTPC.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:24,551 [INFO] Fetching data for NESTLEIND.NS
+2025-08-11 01:15:24,869 [INFO] NESTLEIND.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 52.00%
+2025-08-11 01:15:24,869 [INFO] Fetching data for ONGC.NS
+2025-08-11 01:15:25,218 [INFO] ONGC.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:25,234 [INFO] Fetching data for POWERGRID.NS
+2025-08-11 01:15:25,570 [INFO] POWERGRID.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:25,570 [INFO] Fetching data for RELIANCE.NS
+2025-08-11 01:15:25,908 [INFO] RELIANCE.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 40.00%
+2025-08-11 01:15:25,910 [INFO] Fetching data for SBILIFE.NS
+2025-08-11 01:15:26,202 [INFO] SBILIFE.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 64.00%
+2025-08-11 01:15:26,217 [INFO] Fetching data for SBIN.NS
+2025-08-11 01:15:26,537 [INFO] SBIN.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 48.00%
+2025-08-11 01:15:26,540 [INFO] Fetching data for SUNPHARMA.NS
+2025-08-11 01:15:26,885 [INFO] SUNPHARMA.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:26,887 [INFO] Fetching data for TCS.NS
+2025-08-11 01:15:27,269 [INFO] TCS.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:27,269 [INFO] Fetching data for TATACONSUM.NS
+2025-08-11 01:15:27,637 [INFO] TATACONSUM.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 32.00%
+2025-08-11 01:15:27,637 [INFO] Fetching data for TATAMOTORS.NS
+2025-08-11 01:15:27,968 [INFO] TATAMOTORS.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:27,970 [INFO] Fetching data for TATASTEEL.NS
+2025-08-11 01:15:28,269 [INFO] TATASTEEL.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 68.00%
+2025-08-11 01:15:28,285 [INFO] Fetching data for TECHM.NS
+2025-08-11 01:15:28,637 [INFO] TECHM.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:28,650 [INFO] Fetching data for TITAN.NS
+2025-08-11 01:15:28,987 [INFO] TITAN.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
+2025-08-11 01:15:29,002 [INFO] Fetching data for ULTRACEMCO.NS
+2025-08-11 01:15:29,327 [INFO] ULTRACEMCO.NS | Model: Decision Tree | Profit: 2071.42 | Win Ratio: 100.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:29,332 [INFO] Fetching data for UPL.NS
+2025-08-11 01:15:29,667 [INFO] UPL.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 60.00%
+2025-08-11 01:15:29,679 [INFO] Fetching data for WIPRO.NS
+2025-08-11 01:15:30,035 [INFO] WIPRO.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 48.00%
+2025-08-11 01:15:30,041 [INFO] Fetching data for LICHSGFIN.NS
+2025-08-11 01:15:30,385 [INFO] LICHSGFIN.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 36.00%
+2025-08-11 01:15:30,401 [INFO] Fetching data for TATAELXSI.NS
+2025-08-11 01:15:30,735 [INFO] TATAELXSI.NS | Model: Logistic Regression | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 72.00%
+2025-08-11 01:15:30,743 [INFO] Fetching data for ADANIGREEN.NS
+2025-08-11 01:15:31,039 [INFO] ADANIGREEN.NS | Model: Decision Tree | Profit: 0.00 | Win Ratio: 0.00% | ML Accuracy: 56.00%
