@@ -99,6 +99,14 @@ The script will:
 - The script selects the model with the **highest accuracy**.
 
 ---
+## 🤖 Automation & Scheduling
+
+The system supports **automated daily execution** using Python’s `schedule` library. Once started, the script runs continuously and automatically triggers the trading analysis at **16:30** (4:30 PM) local time every day.
+
+- Enables **hands-free daily updates** without manual intervention.
+- Launch the script once; it manages daily runs automatically.
+- Checks every 60 seconds for the scheduled time.
+
 
 ## 🛠 Difficulty Level
 
